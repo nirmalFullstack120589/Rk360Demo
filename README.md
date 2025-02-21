@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/b63b02ee-e169-47bb-ae22-5f494c74b18d
+
 ## EXPO APP WITH CLOJURESCRIPT
 
 ## How to run(MacOS)
