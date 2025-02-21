@@ -4,19 +4,7 @@ https://github.com/user-attachments/assets/b63b02ee-e169-47bb-ae22-5f494c74b18d
 
 ## RK360Health App
 
-**RK360® NAVI**: AI-Powered Healthcare Navigation that Simplifies Your Healthcare Journey
-The only HIPAA-compliant, consumer platform with patient-provider matching, data sharing, and care coordination
-
----
-
-
-## 🚀 What Makes RK360Health Special?
-
-- **Matching and Communications Nationwide**:Match and communicate with 8M+ providers nationawide – without big-tech surveillance.
-- **Data Sharing with Family**: Consolidate, own and share your and your family’s health data in tamper-proof, encrypted cloud       records.
-- **Coordination with Record Providers**: Coordinate all your providers with record access that avoids treatment and billing errors.
-- **Specific Symptoms Detection**: Give specialists the daily symptoms, images,and lab results needed to solve your medical mysteries. Avoid the cost and harm of needlessly repeated tests.
-- **Get Access Via Travelling** Avoid health data breaches and bureaucratic hassles while getting expert care far from home, Lockdown your RK360® Record during travel and find verified experts at your destination
+**RK360® NAVI Sign Up Flow**: This App contains the full Sign up flow for registering user via number and email
 
 ---
 
