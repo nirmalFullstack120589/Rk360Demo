@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "header": "I'm a Healthcare Seeker",
+        "title": "FREE BEST CARE DIRECTORY",
+        "price_monthly": "",
+        "free_plan": "FREE FOREVER",
+        "price_yearly": "",
+        "description": [
+            "Simple email sign up",
+            "Search without surveillance",
+            "Match with 8M+ U.S. providers"
+        ],
+        "benefits": []
+    },
+    {
+        "id": 2,
+        "header": "I'm a Healthy Family Caregiver",
+        "title": "SILVER FAMILY",
+        "price_monthly": "$7.99 / month",
+        "free_plan": "TRY FREE 30 DAYS",
+        "price_yearly": "$79.99 / year",
+        "description": [
+            "2-factor authentication security",
+            "Search without surveillance",
+            "Match with 8M+ U.S. providers",
+            "Contact matched providers",
+            "Exercise HIPAA data rights",
+            "Coordinate your and family care",
+            "Import, share, own your data",
+            "Automated VA data import"
+        ],
+        "benefits": [
+            "Your own RK360 Cloud Record",
+            "4 RK360 Records you administer for others",
+            "20GB storage across all Records",
+            "5 HIPAA provider messages/month across all Records",
+            "Mobile device and web browser access for 5 Record owners"
+        ]
+    },
+    {
+        "id": 3,
+        "header": "I'm a Complex Patient",
+        "title": "GOLD INDIVIDUAL",
+        "price_monthly": "$9.99 / month",
+        "free_plan": "TRY FREE 30 DAYS",
+        "price_yearly": "$99.99 / year",
+        "description": [
+            "2-factor authentication security",
+            "Search without surveillance",
+            "Match with 8M+ U.S. providers",
+            "Contact matched providers",
+            "Exercise HIPAA data rights",
+            "Coordinate your care",
+            "Import, share, own your data",
+            "Automated VA data import"
+        ],
+        "benefits": [
+            "Your own RK360 Cloud Record",
+            "50GB storage across all Records",
+            "10 HIPAA provider messages/month",
+            "Mobile device and web browser access"
+        ]
+    },
+    {
+        "id": 4,
+        "header": "I'm a High-Stress Family Caregiver",
+        "title": "GOLD FAMILY",
+        "price_monthly": "$19.99 / month",
+        "free_plan": "TRY FREE 30 DAYS",
+        "price_yearly": "$199.99 / year",
+        "description": [
+            "2-factor authentication security",
+            "Search without surveillance",
+            "Match with 8M+ U.S. providers",
+            "Contact matched providers",
+            "Exercise HIPAA data rights",
+            "Coordinate your and family care",
+            "Import, share, own your data",
+            "Automated VA data import"
+        ],
+        "benefits": [
+            "Your own RK360 Cloud Record",
+            "4 RK360 Records you administer for others",
+            "100GB storage across all Records",
+            "20 HIPAA provider messages/month across all Records",
+            "Mobile device and web browser access for 5 Record owners"
+        ]
+    }
+]
